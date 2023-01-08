@@ -8,3 +8,6 @@ I have used MySQL workbench to solve all case study questions. I have used some 
 Feedbacks most welcome.
 
 challenge link : https://8weeksqlchallenge.com/case-study-1/
+
+My linkedin : https://www.linkedin.com/in/salaiarunmanijb/ 
+
